@@ -63,6 +63,12 @@ The simulation successfully demonstrates:
 - Detection of signals with SNR of -30 dB using DFT averaging
 - Comparative analysis of different windowing functions
 
-- `figures/true_and_jam_sig.png`: Visualization of desired signal and jamming signal spectra
-- `figures/win_wo.png`: Comparison of detection with and without windowing
-- `figures/seg_avg.png`: Demonstration of SNR improvement through segmented DFT averaging
+![True and Jamming Signal Spectra](./figures/true_and_jam_sig.png)
+*Visualization of desired signal and jamming signal spectra*
+
+![Window Comparison](./figures/win_wo.png)
+*Comparison of detection with and without windowing*
+
+![DFT Averaging](./figures/seg_avg.png)
+*Demonstration of SNR improvement through segmented DFT averaging*
+
